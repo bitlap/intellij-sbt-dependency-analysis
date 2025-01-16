@@ -2,7 +2,7 @@ import org.jetbrains.sbtidea.Keys.*
 import org.jetbrains.sbtidea.verifier.FailureLevel
 
 lazy val scala3Version         = "3.6.2"
-lazy val logbackVersion        = "1.5.15"
+lazy val logbackVersion        = "1.5.16"
 lazy val graphvizVersion       = "0.18.1"
 lazy val joorVersion           = "0.9.15"
 lazy val scalatestVersion      = "3.2.19"
